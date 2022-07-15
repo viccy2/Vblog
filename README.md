@@ -1,2 +1,2 @@
 # blog
- Blog created using Vue CLI
+ Blog client end using Vue CLI
